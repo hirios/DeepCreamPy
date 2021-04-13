@@ -24,11 +24,11 @@ Download a version of tensorflow that does not support AVX instructions from (ht
 Open the command line in the same directory as the file downloaded and run:
 
 ```
-pip uninstall tensorflor 
-pip install tensorflow-1.10.0-cp36-cp36m-win_amd64.whl
+$ pip uninstall tensorflor 
+$ pip install tensorflow-1.10.0-cp36-cp36m-win_amd64.whl
 
 or
 
-pip uninstall tensorflor 
-pip install tensorflow-1.10.0-cp36-cp36m-win32.whl
+$ pip uninstall tensorflor 
+$ pip install tensorflow-1.10.0-cp36-cp36m-win32.whl
 ```
