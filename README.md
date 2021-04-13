@@ -7,8 +7,9 @@ I looked for the DeepCreamPy binary for windows and didn't find it. So I did a f
 https://drive.google.com/file/d/1cdisrH_QTsfyd9g_PwRzvONChjVwlMrC
 
 
-Obs1: To use the script, I had to use Python 3.6
-Obs2: This version include the model 
+**Obs1: To use the script, I had to use Python 3.6**
+
+**Obs2: This version include the model**
 
 # INSTALL
 ```
