@@ -10,12 +10,20 @@ https://drive.google.com/file/d/1cdisrH_QTsfyd9g_PwRzvONChjVwlMrC
 
 **To use the script, I had to use Python 3.6**
 
-**This version include the model**
+**You need include the model**
 
 # INSTALL
+
+Download the model here and place it in the models folder
+
+https://drive.google.com/file/d/1byrmn6wp0r27lSXcT9MC4j-RQ2R04P1Z/view
+
+</br>
+
+
 ```
-pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.0-py3-none-any.whl
-pip install -r requirements.exe
+$ pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.0-py3-none-any.whl
+$ pip install -r requirements.exe
 ```
 </br>
 
